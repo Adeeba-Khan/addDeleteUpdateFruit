@@ -28,7 +28,7 @@ header span{
     padding: 6px;
 }
 .container{
-    height: 400px;
+    height: auto;
     width: 600px;
     justify-content: center;
     /* align-content: center; */
